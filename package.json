@@ -1,0 +1,23 @@
+{
+  "name": "meetup-miner",
+  "version": "0.0.1",
+  "description": "Pull down data from Meetup for community research.",
+  "main": "index.js",
+  "dependencies": {
+    "meetup-api": "^1.3.13",
+    "request": "^2.73.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/autonome/meetup-miner"
+  },
+  "keywords": [
+    "meetup"
+  ],
+  "author": "Dietrich Ayala <autonome@gmail.com> (http://metafluff.com)",
+  "license": "MIT"
+}
